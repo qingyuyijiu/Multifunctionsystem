@@ -1,0 +1,23 @@
+============================================================
+Time  2024/08/19 19:26:09 271 
+============================================================
+[2024/08/19 19:26:09 272] isr_local  2211 os_type is:  Linux  
+[2024/08/19 19:26:09 273] isr_local  2220 SYS_MSG_LOAD_LOCAL  
+[2024/08/19 19:26:09 275] isr_local  2249 SYS_MSG_REGCB_LOCAL| param0 =  msp_status_cb  
+[2024/08/19 19:26:09 278] isr_local  2249 SYS_MSG_REGCB_LOCAL| param0 =  build_grm_cb  
+[2024/08/19 19:26:09 280] isr_local  2262 ASR_LOCAL_MSG_BUILD_GRM  
+[2024/08/19 19:26:09 281] isr_local  1903 grm_init | params:  engine_type = local, 		asr_res_path = fo|res/asr/common.jet, sample_rate = 16000, 		grm_build_path = res/asr/GrmBuilld,   
+[2024/08/19 19:26:09 286] isr_local  805  asr_res_path  :  fo|res/asr/common.jet  
+[2024/08/19 19:26:09 300] isr_local  1002 file count =   1  
+es/asr/GrmBuilld  
+[2024/08/19 19:26:09 339] isr_local  1035 res_ver  2  
+r/common.jet  0  0  
+[2024/08/19 19:26:09 341] isr_local  1036 res 5  5873869d89f0becb2d54ddbe1d094889  
+[2024/08/19 19:26:09 343] isr_local  1037 res_new_old_mark  v5pp  
+[2024/08/19 19:26:09 345] isr_local  1038 res_usr_name  ""  
+[2024/08/19 19:26:09 347] isr_local  1039 res_expires  1731464378  
+[2024/08/19 19:26:09 348] isr_local  1040 err  0  
+[2024/08/19 19:26:09 349] isr_local  1071 now expires:  1724066769  1731464378  
+[2024/08/19 19:26:09 365] isr_local  1644 proc_retcode_grm | errorcode =  0  
+[2024/08/19 19:26:09 412] isr_local  2022 grammar id:call  
+[2024/08/19 19:26:09 413] isr_local  1636 onGrmLocalServiceCb  0  call  
